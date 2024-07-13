@@ -1,5 +1,3 @@
-autocmd BufNewFile,BufRead *.conf set equalprg=
-
 autocmd BufNewFile,BufRead *.frr setfiletype frr
 autocmd BufNewFile,BufRead babeld*conf setfiletype frr
 autocmd BufNewFile,BufRead bfdd*conf setfiletype frr
